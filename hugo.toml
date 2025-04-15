@@ -1,0 +1,6 @@
+baseURL = 'https://nightmarez.github.io/'
+languageCode = 'de-DE'
+title = 'nightmarez'
+theme = 'ananke' 
+ 
+ 
